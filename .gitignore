@@ -1,0 +1,18 @@
+node_modules
+yarn.lock
+package-lock.json
+/lib
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE
+.idea
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
